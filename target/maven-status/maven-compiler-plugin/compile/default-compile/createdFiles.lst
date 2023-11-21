@@ -1,0 +1,7 @@
+com\studentmanagement\configuration\StudentAppInitialization.class
+com\studentmanagement\StudentRowMapper\StudentRowMapper.class
+com\studentmanagement\API\Student.class
+com\studentmanagement\configuration\StudentConfiguration.class
+com\studentmanagement\StudentDAO\StudentDao.class
+com\studentmanagement\StudentDAO\StudentDaoImpl.class
+com\studentmanagement\Controller\StudentController.class
